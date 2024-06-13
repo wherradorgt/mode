@@ -1,0 +1,6 @@
+[
+    {
+        "operator": "mode",
+        "columns": ["ENG_COOLANT_TEMP"]
+    }
+]
